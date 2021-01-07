@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-amqplib/php-amqplib": "^2.12",
+        "topthink/think-orm": "^2.0"
+    }
+}
